@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="Aether.png" width="150" height="150" alt="Aether Logo">
+   <img src="assets/Aether.png" width="150" height="150" alt="Aether Logo">
    <h1>Aether</h1>
    <p>
       <img src="https://img.shields.io/badge/Frontend-React-blue?logo=react" alt="Frontend">
